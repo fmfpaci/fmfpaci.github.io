@@ -5,7 +5,7 @@ main:
     url: /talks/
     
   - title: "Publications"
-    url: /publications/
+    url: https://dblp.org/pid/18/3134.html
     
 
   - title: "Teaching"
