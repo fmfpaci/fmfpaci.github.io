@@ -7,24 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-Online Privacy
-======
+## Online Privacy
 
+### Related Publications
 
-Identity and Access Management
-======
+### Related Theses
 
+## Identity and Access Management
 
+### Related Publications
 
+### Related Theses
   
-Cyber Risk Assessment
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Cyber Risk Assessment
+
+### Related Publications
+
+### Related Theses
 
   
 
