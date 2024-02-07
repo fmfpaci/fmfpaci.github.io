@@ -14,7 +14,7 @@ I hold a Ph.D. in Information Technology, from the University of Milan, Italy. B
 
 I am a member of the IFIP WG 11.14 Working Group on Secure Engineering. I have served as program committee member of various international conferences in the field of data security and privacy.
 
-My main research interests are in data security and privacy, and secure software engineering. I have proposed technologies to enable secure
+My main research interests are in online privacy, and secure software engineering. I have proposed technologies to enable secure
 and privacy-preserving data sharing in various application domains including web services, social networks, cloud services, and Industrial IoT. My current research focuses on evaluating the security of passwordless authentication protocols, design novel tools for automatic vulnerability detection and code repair, and empirically measure the compliance of web sites and mobile apps with EU Data Protection Law. I have published more than 80 papers in international conferences and journals.
 
 
