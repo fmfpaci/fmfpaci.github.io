@@ -5,8 +5,7 @@ main:
     url: /research/
     
   - title: "Publications"
-    url: https://dblp.org/pid/18/3134.html
-    
+    url: https://scholar.google.com/citations?user=03S3ZbQAAAAJ&hl=en
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,7 +17,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
     
   #- title: "Guide"
   #  url: /markdown/

@@ -83,10 +83,10 @@ author:
   name             : "Federica Paci"
   avatar           : "me.jpeg"
   bio              : "Associate Professor"
-  location         : "Verona, Italy"
-  employer         : "University of Verona, Italy"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "University of Verona, Italy"
+  employer         : "Verona, Italy"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=03S3ZbQAAAAJ&hl=en"
   email            : "federicamariafrancesca.paci@univr.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
